@@ -33,14 +33,19 @@ OWNER_ID - Your telegram id
 CAPTION - If you want to add a caption to the forwarded file, enter it here
 SESSION - Pyrogram string Seccion - https://replit.com/@JijinR/PyroSessionString?v=1
 ```
+## Deploy
+You can deploy this bot anywhere.
 
-### Deploying on Heroku:
+<i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://youtu.be/B6jQGOJDVi0)
-
-### Deploying on Railway:
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://youtu.be/B6jQGOJDVi0)
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/farshadpyt/Frwdit-V2/tree/master">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
 
 ### Legendary Way:
 #### On Linux Or VPS:
